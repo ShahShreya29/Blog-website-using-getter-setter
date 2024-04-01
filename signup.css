@@ -1,0 +1,42 @@
+form {
+  width: 279px;
+  margin-left: 5%;
+}
+
+h2 {
+  margin-top: 10%;
+}
+
+.signUp {
+  background-color: darkgoldenrod;
+  margin-left: 40%;
+  margin-top: 5%;
+  width: 340px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: rgb(75, 49, 18);
+}
+
+form .btn {
+  background-color: rgb(70, 41, 2);
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border: none;
+}
+
+.btn:hover {
+  background-color: white;
+  color: darkgoldenrod;
+}
+
+span {
+  color: white;
+  font-weight: bold;
+}

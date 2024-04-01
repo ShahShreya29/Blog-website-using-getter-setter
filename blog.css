@@ -1,0 +1,43 @@
+form .btn {
+    background-color: black;
+    color: white;
+}
+
+form .btn:hover {
+    background-color: black;
+    color: white;
+}
+
+#blog {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 10px;
+}
+ 
+.card {
+    margin: 10px;
+}
+
+.card-title {
+    font-size: 15px;
+}
+
+.card-text {
+    font-size: 20px;
+}
+
+.welcomeHeading .btn {
+    margin-left: 93%;
+    margin-top: -6%;
+}
+
+.welcomeHeading a {
+    text-decoration: none;
+    color: white;
+}
+.noBlog{
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+}
